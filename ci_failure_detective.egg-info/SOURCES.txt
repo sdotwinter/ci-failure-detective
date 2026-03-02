@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+ci_detective/__init__.py
+ci_detective/cli.py
+ci_failure_detective.egg-info/PKG-INFO
+ci_failure_detective.egg-info/SOURCES.txt
+ci_failure_detective.egg-info/dependency_links.txt
+ci_failure_detective.egg-info/entry_points.txt
+ci_failure_detective.egg-info/requires.txt
+ci_failure_detective.egg-info/top_level.txt
