@@ -149,28 +149,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
-## Sponsorware
-
-This is **Sponsorware**!
-
-This project is free and open-source. However, sponsors get exclusive benefits:
-
-### Sponsor Tiers
-
-| Tier | Price | Benefits |
-|------|-------|-----------|
-| ⭐ Supporter | $14/mo | Private screencasts, templates, early access |
-| 🚀 Pro | $50/mo | Pro CLI features, priority support, consulting |
-
-### Sponsor Benefits
-
-- **Private screencasts** showing how to debug complex CI issues
-- **Ready-to-use templates** for common CI configurations
-- **Early access** to new features before public release
-- **Pro CLI features** with advanced analysis capabilities
-- **Priority support** for debugging assistance
-- **Direct consulting** on CI/CD optimization
-
 ### How to Sponsor
 
 [![Sponsor via GitHub Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ci-failure-detective)
@@ -188,3 +166,34 @@ Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTIN
 - 📖 [Documentation](https://ci-failure-detective.dev/docs)
 - 🐛 [Issue Tracker](https://github.com/ci-failure-detective/ci-detective/issues)
 - 💬 [Discussions](https://github.com/ci-failure-detective/ci-detective/discussions)
+
+## Sponsorship
+
+This project follows the App Factory sponsorship model:
+
+### $5/month - Supporter
+- Sponsor badge on your GitHub profile
+- Monthly sponsor update
+
+### $25/month - Builder Circle
+- Everything in Supporter
+- Name listed in project Sponsors section (monthly refresh)
+- Access to private sponsor Discord channel
+
+### $100/month - Priority Maintainer
+- Everything in Builder Circle
+- Priority bug triage for your reports (max 2 issues/month)
+- Response target: within 5 business days
+
+### $1,000/month - Operator Advisory
+- Everything in Priority Maintainer
+- Dedicated async advisory support
+- Service boundary: guidance and review only (no custom development included)
+
+### $5,000 one-time - Custom Project Engagement
+- Custom contract engagement
+- Discovery required before kickoff
+- Scope, timeline, and deliverables agreed in writing
+
+Sponsor: https://github.com/sponsors/sdotwinter
+
